@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|c:\\users\\kchor\\source\\repos\\api_livraria\\mockup\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|solutionrelative:mockup\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|c:\\users\\kchor\\source\\repos\\api_livraria\\controllers\\livrocontroller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|solutionrelative:controllers\\livrocontroller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|c:\\users\\kchor\\source\\repos\\api_livraria\\dto\u0027s\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF123A1-00B2-4475-9B21-DD4DF7DCD96F}|API_Livraria.csproj|solutionrelative:dto\u0027s\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\DTO\u0027s\\LivroDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u0027s\\LivroDTO.cs",
+              "ToolTip": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\DTO\u0027s\\LivroDTO.cs",
+              "RelativeToolTip": "DTO\u0027s\\LivroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:15:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "livros.json",
+              "DocumentMoniker": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\Mockup\\livros.json",
+              "RelativeDocumentMoniker": "Mockup\\livros.json",
+              "ToolTip": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\Mockup\\livros.json",
+              "RelativeToolTip": "Mockup\\livros.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:52:48.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\Controllers\\LivroController\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Kchor\\source\\repos\\API_Livraria\\Controllers\\LivroController\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController\\LivroController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:45:48.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
